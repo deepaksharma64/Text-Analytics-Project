@@ -1,0 +1,6 @@
+This is a text analytics project where goal is to correctly classify Ham and Spam messages. 
+Huge lis of sms messages dataset is provided in the link below. 
+
+#Code was written by me based on very good introduction on Text Analytics at https://www.youtube.com/watch?v=4vuw0AsHeGw&t=64s
+#Dataset used was downlaoded from - https://www.kaggle.com/uciml/sms-spam-collection-dataset
+#Dataset is attached with this file.
